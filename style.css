@@ -53,9 +53,9 @@ nav a{
  /* header related style */
  .header{
     background-color: #fff8f3;
-    background-image: url(./images/EMG/header_bg.png);
+    background-image: url(./images/EMG/header_bg.png), url('./images/EMG/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, top left;
     
  }
  .banner{
